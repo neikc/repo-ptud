@@ -1,2 +1,2 @@
-# repo-ptud
-Project trên lớp phát triển ứng dụng thương mại điện tử 10-11/2024
+# [Trang Web](https://phattrienungdungueh.github.io/web/)
+Đây là trang Web để giảng dạy môn lập trình Web, phát triển ứng dụng 
